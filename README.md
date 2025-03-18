@@ -5,6 +5,8 @@
 2. Yumii queries the **Mistral AI agent** (temperature: `0.01`, model: `NeMo`) with the provided champion name.
 3. The API returns an optimal item build formatted as:   `BUILD -> Doran's Ring > Hextech Gunblade > Nashor's Tooth > Rabadon's Deathcap > Void Staff > Zhonya's Hourglass`
 
+---
+
 ### Tech Stack
 - **Rust** 🦀
 - **Poise** (Discord framework)
@@ -32,6 +34,10 @@ Don't forget to give the project a star! Thanks again! ❤️
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/39afad43-5e36-4124-a9c8-243054d6e20f" width="30%">
+</div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
