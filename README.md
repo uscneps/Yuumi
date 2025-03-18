@@ -17,6 +17,10 @@
   - API URL: https://api.mistral.ai/v1/agents/completions
   - Model : NeMo
   - Max Tokens: 150
+  - System Prompt : `Using data from Blitz.gg, find the optimal item build for a specified League of Legends champion. Format the output ONLY in this way: 'BUILD -> Doran's Ring > Hextech Gunblade > Nashor's Tooth > Rabadon's Deathcap > Void Staff > Zhonya's Hourglass'`
+  - Few-Shot Prompts 
+      - input : `yasuo build`
+      - output : `'BUILD -> Doran's Ring > Hextech Gunblade > Nashor's Tooth > Rabadon's Deathcap > Void Staff > Zhonya's Hourglass'`
 
 ### Installation
 1. clone the repo 
